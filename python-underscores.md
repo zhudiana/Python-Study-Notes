@@ -1,4 +1,4 @@
-## Python Underscores: A Practical Guide
+## Python Underscores
 
 Python has a few naming conventions of using single or double underscore. These conventions allow us to:
 
